@@ -4,10 +4,8 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>Testing for hosting React app</p>
-      </header>
+      <h2>Here is an image lol</h2>
+      <p>Testing for hosting React app</p>
     </div>
   );
 }
